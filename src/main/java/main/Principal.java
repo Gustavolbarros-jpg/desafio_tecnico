@@ -1,5 +1,6 @@
-package domain;
+package main;
 
+import domain.Funcionario;
 import service.FuncionarioService;
 
 import java.math.BigDecimal;

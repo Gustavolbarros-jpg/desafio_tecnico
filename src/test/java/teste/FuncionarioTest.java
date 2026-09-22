@@ -2,7 +2,7 @@ package teste;
 
 import domain.Funcionario;
 import domain.Pessoa;
-import domain.Principal;
+import main.Principal;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import service.FuncionarioService;

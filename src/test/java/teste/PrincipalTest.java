@@ -1,6 +1,6 @@
 package teste;
 
-import domain.Principal;
+import main.Principal;
 import org.junit.jupiter.api.Test;
 
 import java.io.ByteArrayOutputStream;

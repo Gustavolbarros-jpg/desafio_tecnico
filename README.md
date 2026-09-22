@@ -12,7 +12,7 @@ Projeto em Java 21 que cadastra os funcionários da tabela do desafio e executa 
 ```sh
 mvn test
 mvn package
-java -cp target/classes domain.Principal
+java -cp target/classes main.Principal
 ```
 
 Os testes JUnit ficam em `src/test/java/teste`.
